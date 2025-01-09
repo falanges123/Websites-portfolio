@@ -89,7 +89,7 @@ One of the main challenges was developing a system capable of handling a constan
 ## How It Came Together
 The website features a clean and user-friendly design that effectively showcases available properties. A dynamic property listing page allows for easy addition and management of new listings, complete with search filters to help users find land options that suit their needs. The valuation request form is straightforward, enabling potential clients to request an evaluation with ease. A dedicated service section emphasizes Valueline’s expertise in land acquisition and real estate consulting. Built on WordPress, the site incorporates custom coding for property listings and utilizes the Astra theme for enhanced flexibility and speed. This combination ensures the site is visually appealing while remaining highly functional and easy to manage.
 
-Live Link: <a href="https://valueline.co.ke" target="_blank">Valueline</a>
+Live Link: <a href="https://valueline.co.ke" target="_blank">ValuelinenConsulting</a>
 
 ### Screenshots
 
@@ -212,7 +212,7 @@ The main challenge was to create a website that would connect with the African d
 ## How It Came Together
 The website was designed with a modern and user-friendly approach that embodies KWICA’s mission of empowerment and community support. The homepage showcases striking imagery and powerful messaging, instantly captivating users with the organization’s vision. Specific sections were developed for programs, events, and member success stories to engage visitors and offer in-depth insights into KWICA’s initiatives. A secure donation platform was incorporated, simplifying the process for supporters to contribute online. An events page features upcoming workshops and cultural celebrations, complete with RSVP options. Built on WordPress, the site enables KWICA’s team to easily manage content updates, ensuring the site stays fresh and engaging. Mobile responsiveness was a key focus to accommodate users accessing the site from their smartphones.
 
-Live Link: <a href="https://kwica.com" target="_blank">Kwica</a>
+Live Link: <a href="https://kwica.ca" target="_blank">Kwica</a>
 
 ### Screenshots
 Service pages for construction, energy, and infrastructure sectors.
